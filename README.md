@@ -1,4 +1,4 @@
 # hello-world
-My first repository
+My first git repository
 My real name is Marie
 I like cats
